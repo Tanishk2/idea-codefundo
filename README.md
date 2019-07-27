@@ -3,16 +3,16 @@
 AZURE BEAM( Blockchain Election Application Mechanism) 
 
   We plan to build an app which works on blockchain technology to ensure that the elections are conducted in a fair and peaceful manner. We will be primarily focussing on four points
-a. Checking the authenticity of the voter by using biometric scanner and retina scanning technology, so that no illegal or proxy voting takes place and to ensure that all the legitimate voters cast their vote.
-b. A provisional voter id would be generated in case a voter doesn't have a voter id card but has any other government certified id proof like aadhar card, pan card, driving license etc.
-c. Only after authentication, the credentials of the voter will be added to the ledger in the blockchain.
+1. a. Checking the authenticity of the voter by using biometric scanner and retina scanning technology, so that no illegal or proxy voting takes place and to ensure that all the legitimate voters cast their vote.
+   b. A provisional voter id would be generated in case a voter doesn't have a voter id card but has any other government certified id proof like aadhar card, pan card, driving license etc.
+   c. Only after authentication, the credentials of the voter will be added to the ledger in the blockchain.
      Problems Tackled
-           *Voters without voter id would also be able to cast their votes without going through         any extra procedures.
-*Only legitimate voters will be allowed to vote after authentication, so proxy votes under fake identity would not be possible.
+           -Voters without voter id would also be able to cast their votes without going through         any extra procedures.
+-Only legitimate voters will be allowed to vote after authentication, so proxy votes under fake identity would not be possible.
 
-     2. a. Booth will be used as nodes of blockchain. After the person has voted, his vote will be added to the ledger.
-      b. In case of booth capturing or any other emergency a simple command will immediately shut down the casting of new votes and since we are using blockchain technology the votes that have already been casted could not be manipulated. A message will be sent to the election commission officials stating that the booth is compromised.  
-     c. A team including security personnel, an IT person and an election commission official will be dispatched to the booth. After securing the booth voting will be resumed by Election Comission Official.
+2. a. Booth will be used as nodes of blockchain. After the person has voted, his vote will be added to the ledger.
+   b. In case of booth capturing or any other emergency a simple command will immediately shut down the casting of new votes and since we are using blockchain technology the votes that have already been casted could not be manipulated. A message will be sent to the election commission officials stating that the booth is compromised.  
+   c. A team including security personnel, an IT person and an election commission official will be dispatched to the booth. After securing the booth voting will be resumed by Election Comission Official.
 		 			
 3. There will be transparency in the declaration of results, since we are using blockchain technology there is no chance of deceptive results. 
 
@@ -27,11 +27,11 @@ The users having the facility of a smartphone can register themselves by install
                                                  Dataset Required
 
 
-1 Number of Constituencies 
-2 Location and number of booths in each constituency 
-3 Number and list of voters in each constituency
-4 Information of voters eg. voter Identity card, Aadhar card, pan card,Driving License
-5  List and credentials of candidates eg. criminal charges, past records, personal information etc.
+1. Number of Constituencies 
+2. Location and number of booths in each constituency 
+3. Number and list of voters in each constituency
+4. Information of voters eg. voter Identity card, Aadhar card, pan card,Driving License
+5. List and credentials of candidates eg. criminal charges, past records, personal information etc.
 
 
 
